@@ -1,5 +1,4 @@
 <div align="center">
-  <p>◈ Portfólio Pessoal ◈</p>
   <h1> Dev & Arquiteto de Sistemas </h1>
   <p><em>Técnico em Desenvolvimento · Estudante de Engenharia de Software & Sistemas de Informação</em></p>
 </div>
