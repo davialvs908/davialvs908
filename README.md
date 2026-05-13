@@ -10,7 +10,7 @@
 
 Construo sistemas que funcionam de verdade do código ao cabo de rede. Desenvolvimento full-stack com experiência prática em infraestrutura, redes e segurança.
 
-Quando não estou codando, estou nos tatames treinando Jiu-Jitsu ou gerenciando processos de varejo físico — o que me dá uma visão real sobre as dores de gestão e negócios.
+Fora da tela, sou atleta de Jiu-Jitsu e musculação onde aprendi que consistência disciplinada bate talento inconsistente.
 
 ---
 
@@ -24,8 +24,11 @@ Quando não estou codando, estou nos tatames treinando Jiu-Jitsu ou gerenciando 
 
 **Frontend & Mobile**
 
+**Frontend & Mobile**
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 **Infra, Redes & Segurança**
 
