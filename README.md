@@ -40,8 +40,8 @@ Quando não estou codando, estou nos tatames treinando Jiu-Jitsu ou gerenciando 
 
 ### 📊 Atributos de Código (GitHub Stats)
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=davialvs908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davialvs908&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davialvs908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davialvs908&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
